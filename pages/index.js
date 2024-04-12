@@ -8,7 +8,7 @@
 * 
 *  Name: Danylo Vityk Student ID: 176326213 Date: April 12, 2024
 *
-*  Vercel App (Deployed) Link: _____________________________________________________
+*  Vercel App (Deployed) Link: https://web-422-assignment6-m1w03gwf7-danylos-projects-04fe8966.vercel.app/
 *
 ********************************************************************************/ 
 
