@@ -6,6 +6,7 @@ import { favouritesAtom } from '@/store';
 import { useState } from 'react';
 import { useEffect } from 'react';
 import { addToFavourites, removeFromFavourites } from '@/lib/userData';
+import Error from 'next/error';
 
 
 
